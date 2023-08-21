@@ -32,3 +32,4 @@ Créditos das imagens:
 
 Image by <a href="https://www.freepik.com/free-vector/realistic-hand-drawn-vintage-snake-background_4231030.htm#query=python&position=22&from_view=search&track=sph">Freepik</a>
 
+<a href="https://www.freepik.com/free-vector/application-programming-interface-concept-illustration_25625375.htm#query=programming&position=16&from_view=search&track=sph">Image by storyset</a> on Freepik
