@@ -27,6 +27,8 @@ Deploy da solução:
 
     https://coruscating-pudding-606193.netlify.app/
 
+# Por estar usado imagens no tipo avif as imagens do site estão apenas diponíveis no chrome
+
 Lighthouse do index no pc usando chrome:
 
 ![Alt text](image.png)
