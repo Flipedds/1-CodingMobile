@@ -27,7 +27,7 @@ Deploy da solução:
 
     https://coruscating-pudding-606193.netlify.app/
 
-Lighthouse do index no pc:
+Lighthouse do index no pc usando chrome:
 
 ![Alt text](image.png)
 
